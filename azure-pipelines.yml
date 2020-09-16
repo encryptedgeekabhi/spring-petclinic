@@ -18,7 +18,7 @@ variables:
   resourceGroupName: 'sample'
  
   # Environment name
-  environmentName: 'test'
+  environmentName: 'flatrisjen'
  
   # Agent VM image name
   vmImageName: 'ubuntu-latest'
